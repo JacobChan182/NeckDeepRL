@@ -1,0 +1,12 @@
+path: datasets/NeckDeep
+train: images/train
+val: images/val
+
+names:
+  0: Player
+  1: Cone
+  2: Coin
+  3: Hole
+  4: Plane
+  5: Roadblock
+  6: Ball

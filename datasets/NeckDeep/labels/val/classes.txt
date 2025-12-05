@@ -1,0 +1,7 @@
+Player
+Cone
+Coin
+Hole
+Plane
+Roadblock
+Ball

@@ -1,0 +1,4 @@
+score_x1 = 100 
+score_y1 = 125 
+score_x2 = 400 
+score_y2 = 150 
