@@ -11,6 +11,12 @@ This project aims to create an autonomous agent that can play the December game 
 4. Training an RL agent to make optimal decisions
 5. Achieving top 3 placement in the leaderboard
 
+## Demo
+
+Watch the YOLOv8 object detection in action:
+
+[![YOLOv8 Detection Demo](https://img.youtube.com/vi/eKbmbajl2U0/maxresdefault.jpg)](https://youtu.be/eKbmbajl2U0)
+
 ## Game Information
 
 - **Game URL**: https://december.neckdeepuk.com/

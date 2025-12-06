@@ -13,4 +13,6 @@ htmlcov/
 .idea/
 .vscode/
 *.mp4
+*.avi
 frames/
+runs/
